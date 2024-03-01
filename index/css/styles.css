@@ -1489,7 +1489,11 @@ body.dark-mode .tools-title, body.dark-mode .parts-title {
     padding-bottom: 10px; /* Space between list items */
 }
 
-
+#content5 ul li {
+    font-family: 'Roboto', sans-serif; /* Change the font family to 'Roboto' */
+    font-size: 1rem; /* Adjust the font size */
+    line-height: 1.5; /* Adjust the line height for better readability */
+}
 
 /* Parent container example for a flex layout */
 .content-flex-container {
